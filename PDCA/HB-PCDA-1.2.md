@@ -9,17 +9,19 @@
 
 ## PLAN
 
-- More carols
-
+- 5 carols
 
 ## DO
 
 - Build prototype
 - test
+- 6 carols randomized on_logo_pressed, with heartbeat
 
 ## CHECK
 
-- 
+- successful field test
+
+
 
 ## ACT
 
